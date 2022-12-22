@@ -1,0 +1,13 @@
+lecture des valeurs des vecteurs a et b en Angstrom
+a= 26.48795                a colinéaire à x
+b= 26.3264              b colinéaire à y
+c= 3.407662            c colinéaire à z
+alpha= 90
+beta= 90
+gamma= 63.0
+lecture des données pour fichier poscar
+4
+N
+C
+H
+O
