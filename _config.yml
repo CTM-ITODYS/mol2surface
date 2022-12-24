@@ -1,0 +1,8 @@
+title: mol2surface
+author: Sylvain PITIÉ
+email: sylvain.pitie@u-paris.fr
+description: Fortran code that convert xyz-file to POSCAR file for VASP calculations
+twitter_username: PitiéSylvain
+
+theme: jekyll-theme-slate
+
