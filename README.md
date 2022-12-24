@@ -1,5 +1,6 @@
 # mol2surface
 Fortran code that convert xyz-file to POSCAR file for VASP calculation <br />
+Github page: https://ctm-itodys.github.io/mol2surface/  <br />
 Compile the code:
 ```markdown
 gfortran mol2surface.f90 -o mol2surface.exe
